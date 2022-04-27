@@ -1,5 +1,7 @@
 # Finote - your financial app assistant
 
+https://finote-c494e.firebaseapp.com
+
 Finote is concerned-financial app that will let you to track your past expenses and simply visualized with nicer chart.
 
 |![Home Page](https://user-images.githubusercontent.com/40289741/165458313-bb174778-f37e-4fa2-ad94-3c9ac344d6f9.png)|![Tambah Pengeluaran Page 3](https://user-images.githubusercontent.com/40289741/165458447-7c266cc5-de1e-4440-95d0-62f7aea656b1.png) |![Perbandingan Pengeluaran Page](https://user-images.githubusercontent.com/40289741/165458455-edfa14a3-cf57-4744-ad6a-73d5dbe3cfac.png)                         |
