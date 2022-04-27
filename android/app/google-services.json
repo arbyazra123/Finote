@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620727716052",
+    "project_id": "finote-c494e",
+    "storage_bucket": "finote-c494e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620727716052:android:5ffe32d5b3dc0668385341",
+        "android_client_info": {
+          "package_name": "com.finote.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620727716052-1tpcd9hipd1g902ibn2bmup18puf4jvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finote.android",
+            "certificate_hash": "3236f57da2c102ad1957860ead9318ecb3d9bcb8"
+          }
+        },
+        {
+          "client_id": "620727716052-jeab115guoku2ahmdfk5o4vkdd0lvgb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK16k43Zfi-3DfmBx-R2tQ2x85q7ePVLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620727716052-jeab115guoku2ahmdfk5o4vkdd0lvgb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
