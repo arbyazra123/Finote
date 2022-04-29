@@ -8,7 +8,7 @@ Finote is concerned-financial app that will let you to track your past expenses 
 |----------------|-------------------------------|-----------------------------|
 
 
-# UX Mockup
+# UX Finote - Presentation
 
 
 https://docs.google.com/presentation/d/1wYUYumeH21Arafmr5amLnCmUWF8J1egGKjcEfj-FHxg/edit#slide=id.g1262d424e2d_2_94 
